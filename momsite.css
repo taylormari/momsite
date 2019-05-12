@@ -1,0 +1,30 @@
+body{
+	overflow: hidden;
+}
+
+
+
+.text2
+{
+	font-size: 1em;
+	color: white;
+	margin-left: 70%;
+	margin-top: 20%;
+	position: absolute;
+}
+
+img {
+	width: 100vw;
+	height: auto;
+	z-index: -1;
+	position: absolute;
+
+}
+
+#playlist {
+	z-index: 3;
+	margin-top: 10%;
+	margin-left : 70%;
+	position: absolute;
+
+}
